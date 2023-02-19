@@ -97,6 +97,7 @@ body {
   line-height: 24px;
   text-decoration-line: underline;
   color: #005fff;
+  margin: 20px 0 0 10px;
 }
 
 /* Work experience */
@@ -145,14 +146,14 @@ body {
   height: 114px;
   left: 498px;
   top: 1138px;
+  margin: 48px 0 0 0;
 }
 .education-content-title {
-font-family: 'Montserrat';
-font-weight: 700;
-font-size: 22px;
-line-height: 27px;
-color: #000000;
-
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 12px 0 12px 0;
 }
 .university-experitnce {
   font-style: normal;
@@ -160,6 +161,7 @@ color: #000000;
   font-size: 16px;
   line-height: 20px;
   color: #6d9bf5;
+  margin: 0 0 12px 0;
 }
 
 .text-management {
@@ -168,12 +170,17 @@ color: #000000;
   font-size: 14px;
   line-height: 17px;
   color: #000000;
+  margin: 0;
 }
 .the-lowest-text {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
   color: #a8a8a8;
+  margin: 12p 0 0 0;
+}
+.text-diviber {
+  color: #000000;
 }
 
 /* Sidebar */
